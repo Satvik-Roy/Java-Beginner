@@ -1,5 +1,7 @@
 # Java-Beginner
 Includes: Calculator, ToDoList, NumberGuessingGame, GradeTracker, SimpleATMSim, AddressBook, TicTacToe
+
+
 These projects had been developed by me in my 1st year of programming but I chose to upload them on Git late for some reason. Anyways...
 This is a small collection of beginner-friendly console programs I built to practice and demonstrate the fundamentals of programming. Each project focuses on key skills — from basic syntax and logic to object-oriented programming (OOP). Here’s a quick overview of what’s covered:
 
